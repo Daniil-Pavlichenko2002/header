@@ -637,11 +637,11 @@ footer {
         padding: 79px 70px 85px 79px;
     }
     .block3 {
-        padding-left: 40px;
-        padding-right: 40px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
     .block3__grid {
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
     .block3__background1 {
         top: -419px;
