@@ -730,13 +730,15 @@ footer {
         padding-left: 25px;
         padding-right: 25px;
     }
+    .block3__grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
     .block3__background1 {
         top: -220px;
     }
     .block3__background2 {
-        top: 864px;
-        left: -652px;
-        position: absolute;
+        top: 834px;
+        left: -391px;
     }
     .block4 {
         padding: 98px 25px 94px 15px;
