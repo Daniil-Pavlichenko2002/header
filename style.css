@@ -712,6 +712,14 @@ footer {
         margin-right: 30px;
         margin-bottom: 10px;
     }
+    .banner__title {
+        font-size: 45px;
+        font-weight: 800;
+        line-height: 62px;    
+    }
+    .banner__background {
+        left: -60px;
+    }
     .block2 {
         padding: 69px 11px 85px 2px;
     }
@@ -727,8 +735,8 @@ footer {
         width: 200px;
     }
     .block3 {
-        padding-left: 25px;
-        padding-right: 25px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
     .block3__grid {
         grid-template-columns: repeat(1, 1fr);
@@ -737,8 +745,8 @@ footer {
         top: -220px;
     }
     .block3__background2 {
-        top: 834px;
-        left: -391px;
+        top: 765px;
+        left: -582px;
     }
     .block4 {
         padding: 98px 25px 94px 15px;
@@ -755,6 +763,10 @@ footer {
         padding-left: 20px;
     }
     .footer__block {
-       padding: 21px 20px 19px 20px;
+       padding: 21px 15px 19px 15px;
+    }
+    .footer__images-image {
+        margin-right: 10px;
+        width: 30px;
     }
 }
